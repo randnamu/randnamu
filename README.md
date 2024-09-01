@@ -1,4 +1,4 @@
-## 👋 Hi, I’m MiGao
+## 👋 Hi, I’m randName()
 
 ![profile views](https://komarev.com/ghpvc/?username=randnamu&style=for-the-badge)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/randnamu/randnamu/waka-readme.yml?style=for-the-badge)
